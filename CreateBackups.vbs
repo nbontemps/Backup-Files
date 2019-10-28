@@ -30,6 +30,8 @@ Next
 
 Set oFSO = Nothing
 
+MsgBox("Backups effectues!")
+
 ' FUNCTIONS
 Function timeStamp() 
     timeStamp = Year(Now) & _
