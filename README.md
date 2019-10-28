@@ -1,5 +1,5 @@
-# Backup-Files
-Create backups of your files automatically: a VBS script to boost your productivity.
+# Backup-Files: a VBS script to boost your productivity.
+Create backups of your files automatically with timestamp.
 
 ## Guidelines:
 1. Put the CreateBackups.vbs in the folder where the file(s) you want to back up is/are.
